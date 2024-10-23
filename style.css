@@ -1,0 +1,22 @@
+h1 {
+    color: #fff;
+    font-family:'Gill Sans MT';
+    text-transform: uppercase;
+}
+body {
+    background-color: #1c5d99;
+}
+button {
+    font-family: 'Gill Sans MT';
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(74, 29, 235);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border: #E6DADA solid 10px;
+    border-radius: 20px;
+
+}
